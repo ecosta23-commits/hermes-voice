@@ -1,1 +1,1 @@
-<?xml version="1.0"?><Response><Play>https://raw.githubusercontent.com/ecosta23-commits/hermes-voice/main/fala.mp3</Play></Response>
+<?xml version="1.0"?><Response><Say voice="alice" language="pt-BR">Eduardo! Teste da voz nativa Alice em portugues. Se voce esta ouvindo isto com clareza, a ligacao perfeita funciona!</Say><Pause length="1"/><Say voice="alice" language="pt-BR">Repetindo: ligacao perfeita, voz brasileira, direto da Twilio. Hermes despedindo!</Say><Hangup/></Response>
